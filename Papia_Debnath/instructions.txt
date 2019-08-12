@@ -1,0 +1,3 @@
+This is the instructions to submit your assignments.
+Go inside the folder designated to you, and make a subfolder there. The name of the folder should be like Assignment_1 or whatever day you are submittng. 
+Inside that folder upload your files.
