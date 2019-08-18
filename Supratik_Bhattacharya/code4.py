@@ -1,6 +1,6 @@
-P=(int(input("Enter the Principal amount:  ")))
-R=(int(input("Enter the rate of interest:  ")))
-T=(int(input("Enter the time: ")
+P=int(input("Enter the Principal amount:  "))
+R=int(input("Enter the rate of interest:  "))
+T=int(input("Enter the time: "))
 
 SI=(P*R*T)/100
 n=(int(input("Enter number of times:")))
