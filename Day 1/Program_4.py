@@ -24,7 +24,7 @@ print(f)
 # e.append(5)
 # print(e)
 
-print(g[0])
+print(g['a'])
 
 
 
