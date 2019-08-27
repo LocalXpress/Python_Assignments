@@ -1,0 +1,5 @@
+print("Program to output line: ")
+a = input("Enter the name: ")
+b = int(input("Enter the class: "))
+c = int(input("Enter the age: "))
+print(a, "studies in class ",b,"and his age is ",c,".")
