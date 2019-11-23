@@ -1,0 +1,6 @@
+import math as m
+a=int(input("Enter the value of starting point:"))
+b=int(input("Enter the value of ending point:"))
+
+
+
